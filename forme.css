@@ -60,6 +60,10 @@ header
 	float: left;
 	height: 300px;
 	padding: 5px;
+	width: 50%;
+	position: relative;
+	left: 50%;
+	top: 316px;
 }
 .livementor
 
@@ -70,6 +74,8 @@ header
 	float: left;
 	height: 300px;
 	padding: 5px;
+	width: 50%;
+}
 #block_page
 {
 	width: 100%;
